@@ -31,3 +31,9 @@
   - al agregar una sala de chat al motor de salas de chat, se espera entre 0,5 y 1,5 segundos
 - Cuando se añade un mensaje a la sala se espera entre 0,2 y 0,7 segundos
 - Cuando se añade un mensaje a otro usuario se espera entre 0,1 y 0,5 segundos
+
+## Notas
+
+- El codigo tiene hardcode la ruta donde deja las trazas `D:/Desarrollo/logs/poc/`
+  - 11: src/main/resources/log4j.properties
+  - 15: src/main/java/es/comepiedras/util/LogUtil.java
