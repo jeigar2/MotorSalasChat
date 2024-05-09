@@ -1,5 +1,7 @@
 # Prueba de Concepto - Motor de Salas de Chat
 
+![diagrama](./diagrama-motor-de-chats-001.png)
+
 - Aplicación de Motores de Salas de Chat
   - Habrá entre 2 y 5 motores de Salas de Chat (aleatorio)
   - Cada `motor de Salas de chat` es un hilo para simular concurrencia
